@@ -47,6 +47,10 @@ a{
 }
 .cover{
     width: 25rem;
+    transition: all 0.3s linear;
+}
+.cover:hover{
+    transform: scale(0.7);
 }
 
 /*GRID*/
