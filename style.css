@@ -45,10 +45,12 @@ a{
     justify-content: center;
     height: 85vh;
 }
+
 .cover{
     width: 25rem;
     transition: all 0.3s linear;
 }
+
 .cover:hover{
     transform: scale(0.7);
 }
